@@ -1,8 +1,8 @@
 print('****************** \n Beginning of program. Lets start \n *************** \n')
 account = float(0)
-warehouse_list = ['rower', 'monitor', 'laptop', 'smartfon']
-quantity_of_items = [2, 3, 1, 10]
-prices = [1500, 700, 3500, 1000]
+warehouse_list = []
+quantity_of_items = []
+prices = []
 command_list = ['balance', 'sale', 'purchase', 'account', 'list', 'warehouse', 'overview', 'commands', 'exit']
 # Pozycja w liscie:  0        1          2          3        4          5           6           7         9
 #print(f'List of commands: {command_list}')
